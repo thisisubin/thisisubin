@@ -1,6 +1,4 @@
-<div align = "center">
-<img src = "https://github.com/thisisubin/thisisubin/assets/127410970/ae77c82f-cf5d-483d-bd67-22f996600b99" weight="500" height="400" />
-</div>
+
 
 <!--
 ![thisisubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisubin&show_icons=true&theme=radical)
