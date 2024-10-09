@@ -47,4 +47,4 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/thisisubin-black?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e89dafd0-b494-4104-bcb7-a3ef8d040bb7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e89dafd0-b494-4104-bcb7-a3ef8d040bb7" data-share-badge-host="https://www.credly.com"></div><
