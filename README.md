@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align = "center">
-    <a href=["https://[www.instagram.com](https://www.notion.so/5a356fa5417940f7b4e5aae7bf18d798)/thisisubin/](https://www.notion.so/5a356fa5417940f7b4e5aae7bf18d798)">
+    <a href=["[https://[www.instagram.com](https://www.notion.so/5a356fa5417940f7b4e5aae7bf18d798)/thisisubin/](https://www.notion.so/5a356fa5417940f7b4e5aae7bf18d798)](https://www.notion.so/5a356fa5417940f7b4e5aae7bf18d798?pvs=4)">
       <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/>&nbsp
 </div>
 
