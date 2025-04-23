@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hi there, I'm <strong>thisisubin</strong>! 👋</h2>
-    <p>백엔드 개발자를 꿈꾸는 주니어 풀스택 개발자입니다.  
+    <p>언젠간 슬기로울 개발자를 꿈꾸는 주니어 풀스택 개발자입니다.  
     현재는 자바를 중심으로 웹 개발을 공부하며, 매일 한 걸음씩 성장 중입니다.</p>
 </div>
 
@@ -22,9 +22,7 @@
 
 <h3 align="center">📚 I'm Currently Learning</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
 </div>
 
 ---
