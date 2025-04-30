@@ -21,8 +21,7 @@
 
 ## 📚 Currently Learning
 
-- TDD, Clean Code
-- CS 기본기 (자료구조, 네트워크 등)
+
 
 ---
 
