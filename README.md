@@ -54,4 +54,4 @@
 - 📧 Email: bm1418109@gmail.com  
 - 📸 Instagram: [@thisisubin](https://www.instagram.com/thisisubin/)  
 - 📒 Notion: [포트폴리오 바로가기](https://www.notion.so/5a356fa5417940f7b4e5aae7bf18d798?pvs=4)
-
+- 📝 Blog: [thisisubin](https://thisisubin.tistory.com/)
