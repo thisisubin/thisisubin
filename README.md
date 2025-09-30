@@ -2,14 +2,14 @@
 
 ----
 
-📬 Contact
+#### 📬 Contact
 
 - Email: bm1418109@gmail.com   
 - Notion: [포트폴리오 바로가기](https://www.notion.so/About-Me-1d89ed8559368030b68fe4c8f6710750?source=copy_link)
 
 ----
 
-💻 Tech Stack
+#### 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -28,7 +28,7 @@
 
 ----
 
-📂 Projects
+#### 📂 Projects
 
 #### 🐾 Pawnder (유기동물 입양 & 커뮤니티 플랫폼) **- 개인**  
 - **Repository**: [back-pawnder](https://github.com/thisisubin/back-pawnder) / [front-pawnder](https://github.com/thisisubin/front-pawnder)  
@@ -66,7 +66,7 @@
 
 ----
 
-📄 Certificates
+#### 📄 Certificates
 
 - SQL개발자(SQLD) - 한국데이터산업진흥원 (2025.09.19)  
 - 정보처리기사 – 한국산업인력공단 (2025.06.13)  
@@ -74,7 +74,7 @@
 
 ----
 
-🎓 Education
+#### 🎓 Education
 
 - Hongik University, B.S. in Computer Engineering (Transfer, 2023–2025)
 
